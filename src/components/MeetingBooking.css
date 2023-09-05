@@ -1,4 +1,4 @@
-/* TicketBooking Container */
+/* MeetingBooking Container */
 .meeting-booking-container {
   width: 30%;
   margin: 0 auto;
@@ -6,7 +6,7 @@
   font-family: Arial, sans-serif;
 }
 
-/* Ticket Form */
+/* Meeting Form */
 .meeting-form {
   background-color: #f5f5f5;
   padding: 20px;
